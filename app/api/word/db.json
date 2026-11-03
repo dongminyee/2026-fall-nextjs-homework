@@ -1,0 +1,769 @@
+[
+    {
+        "author": "임가은",
+        "display_author": "집이 스팍스 동방이신 임가은",
+        "message": "나 (새벽) 1시 반까지 무조건 집(스팍스 동방)에 올거임.",
+        "year": 2025,
+        "id": 1
+    },
+    {
+        "author": "박병찬",
+        "display_author": "박병찬",
+        "message": "Clubs가 제일 재밌는 것 같아요.",
+        "year": 2025,
+        "id": 2
+    },
+    {
+        "author": "박태현",
+        "display_author": "대학원생 박태현",
+        "message": "세 살짜리도 논문 쓸 수 있는거 아니야?",
+        "year": 2025,
+        "id": 3
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "대한민국을 위해 애니를 봐야하는거 아닌가요??",
+        "year": 2025,
+        "id": 4
+    },
+    {
+        "author": "박태현",
+        "display_author": "박태현",
+        "message": "이제 밖에서 더 오랫동안 일할수 있겠네요!",
+        "context": "Taxi DC를 소개하며",
+        "year": 2025,
+        "id": 5
+    },
+    {
+        "author": "박태현",
+        "display_author": "박태현",
+        "message": "Taxi에 제 뼈를 묻도록 하겠습니다.",
+        "year": 2025,
+        "id": 6
+    },
+    {
+        "author": "하승종",
+        "display_author": "하승종",
+        "message": "태현아 코딩을 더 잘하고 싶어? 그럼 애니를 더 봐",
+        "context": "애니를 많이 봐서 코딩을 잘하는 하승종",
+        "year": 2025,
+        "id": 7
+    },
+    {
+        "author": "하승종",
+        "display_author": "하승종",
+        "message": "코드에 주석을 다는 것은 사람의 심성과 관련 있는 것이기 때문에...",
+        "year": 2025,
+        "id": 8
+    },
+    {
+        "author": "임가은",
+        "display_author": "임가은",
+        "message": "박지호의 진단명은 뭘까?",
+        "year": 2025,
+        "id": 9
+    },
+    {
+        "author": "임가은",
+        "display_author": "임가은",
+        "message": "늙은 태현 젋은 태현",
+        "year": 2025,
+        "id": 10
+    },
+    {
+        "author": "김민찬",
+        "display_author": "TAXI PM 김민찬",
+        "message": "짱구 솔직히 알파메일이야",
+        "year": 2025,
+        "id": 11
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "역시 큰일은 일본이...",
+        "year": 2025,
+        "id": 12
+    },
+    {
+        "author": "박태현",
+        "display_author": "박태현",
+        "message": "'게이야' 이렇게 부르면 뭔가 친근하잖아요",
+        "year": 2025,
+        "id": 13
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "차기 대체품을 찾아야해서..",
+        "context": "김건님의 대체품인 김민찬",
+        "year": 2025,
+        "id": 14
+    },
+    {
+        "author": "이민욱",
+        "display_author": "이민욱",
+        "message": "웰케 찡찡대~",
+        "year": 2025,
+        "id": 15
+    },
+    {
+        "author": "주영미",
+        "display_author": "주영미",
+        "message": "원래 코딩을 하면 다들 잠이 깨지 않아??",
+        "year": 2025,
+        "id": 16
+    },
+    {
+        "author": "박건욱",
+        "display_author": "25학번 새내기 박건욱",
+        "message": "다들 학번이랑 이름이 적힌 명찰을 차주셔야...",
+        "year": 2025,
+        "id": 17
+    },
+    {
+        "author": "정상",
+        "display_author": "정상",
+        "message": "택시기사님이 제일 좋아하는 동물은? 타 이거 ㅋㅋㅋㅋㅋㅋ",
+        "context": "Taxi팀 OB 카톡방에서",
+        "year": 2025,
+        "id": 18
+    },
+    {
+        "author": "임가은",
+        "display_author": "임플란트가 필요한 사람",
+        "message": "나 이빨 깨짐",
+        "context": "어은동 고깃집에서 샐러드를 먹으며 젓가락을 씹음",
+        "year": 2025,
+        "id": 19
+    },
+    {
+        "author": "조은강",
+        "display_author": "조은강",
+        "message": "(최지윤을 바라보며) 히히 나는 군대 안가지롱",
+        "year": 2025,
+        "id": 20
+    },
+    {
+        "author": "송진형",
+        "display_author": "송진형",
+        "message": "(조상우에게) 자퇴해",
+        "year": 2025,
+        "id": 21
+    },
+    {
+        "author": "임가은",
+        "display_author": "임가은",
+        "message": "(박지호에게) 너 갱년기야?",
+        "year": 2025,
+        "id": 22
+    },
+    {
+        "author": "김민재",
+        "display_author": "김민재",
+        "message": "나야 뭐, 하면 되니까.",
+        "year": 2025,
+        "id": 23
+    },
+    {
+        "author": "김경택",
+        "display_author": "김경택",
+        "message": "류 교수님은 하남자다.",
+        "year": 2025,
+        "id": 24
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "(술 이야기를 하며) 도윤이는 모스키토 좋아하잖아요",
+        "year": 2025,
+        "id": 25
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "여캠이요?",
+        "year": 2025,
+        "id": 26
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "PM이 잘생겨야 사람이 많이오죠",
+        "year": 2025,
+        "id": 27
+    },
+    {
+        "author": "임가은",
+        "display_author": "임가은",
+        "message": "그래서 OTL이..",
+        "context": "현 OTL PM: 박지호",
+        "year": 2025,
+        "id": 28
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "우리가 청소할 짬인가?",
+        "year": 2025,
+        "id": 29
+    },
+    {
+        "author": "최우석",
+        "display_author": "최우석",
+        "message": "민찬님 머리 자르셨네요. 직접 자르신건가요?",
+        "year": 2025,
+        "id": 30
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "궁동에 맛있는 마라탕 집 있는데... 칭*총?",
+        "year": 2024,
+        "id": 31
+    },
+    {
+        "author": "정상",
+        "display_author": "정상",
+        "message": "PPA에서 패키지를 다운받으면 PPAP인가요?",
+        "year": 2024,
+        "id": 32
+    },
+    {
+        "author": "조유민",
+        "display_author": "조유민",
+        "message": "넌 왜 못생겼는데?",
+        "year": 2024,
+        "id": 33
+    },
+    {
+        "author": "정상",
+        "display_author": "정상",
+        "message": "로그인만 해도 여친을 얻을 수 있다.",
+        "year": 2024,
+        "id": 34
+    },
+    {
+        "author": "장병규",
+        "display_author": "91학번 장병규",
+        "message": "(CS496 세미나에서) 스팍스 아직 안 망했어요?",
+        "year": 2024,
+        "id": 35
+    },
+    {
+        "author": "조유민",
+        "display_author": "OTL PM 조유민",
+        "message": "OTL은 그냥 구려. 울고 싶다...",
+        "year": 2024,
+        "id": 36
+    },
+    {
+        "author": "조유민",
+        "display_author": "KIXLAB 웹사이트 디자인하는 조유민",
+        "message": "GPT 안 써. 내 머리가 최고의 생성형 모델이야.",
+        "year": 2024,
+        "id": 37
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "저는 마감일을 잘 지키는 남자입니다.",
+        "year": 2024,
+        "id": 38
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "제가 계속 Taxi 이야기만 하는 이유는 제가 Taxi밖에 모르기 때문입니다.",
+        "year": 2024,
+        "id": 39
+    },
+    {
+        "author": "민지연",
+        "display_author": "민지연",
+        "message": "(휠세미나 녹강을 만들면서) 오늘 안엔 집에 갈 수 있겠지",
+        "year": 2024,
+        "id": 40
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "형 그럼 1학년..? 후배네~ / 응애 밥 사주세요",
+        "context": "2학년 수료 인정이 되지 않은 박지호",
+        "year": 2024,
+        "id": 41
+    },
+    {
+        "author": "김민찬",
+        "display_author": "택시 PM(2024~) 김민찬",
+        "message": "Taxi가 곧 나다.",
+        "year": 2024,
+        "id": 42
+    },
+    {
+        "author": "윤부민",
+        "display_author": "윤부민",
+        "message": "우측보단 좌측이 좋긴 하지.",
+        "year": 2024,
+        "id": 43
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬 (Taxi '24~ PM)",
+        "message": "제가 김건 (Taxi ~'23 PM) 님을 대체하게 되었습니다.",
+        "year": 2024,
+        "id": 44
+    },
+    {
+        "author": "박지호",
+        "display_author": "박지호",
+        "message": "B+? 스팍스의 수치야~",
+        "year": 2024,
+        "id": 45
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "아오. 김건 시치!",
+        "year": 2024,
+        "id": 46
+    },
+    {
+        "author": "권진현",
+        "display_author": "권진현",
+        "message": "(코로나로 비대면 참석하신 면접자께) 건강을 조심해 주시기를 바랍니다.",
+        "year": 2024,
+        "id": 47
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "7+4=13",
+        "year": 2024,
+        "id": 48
+    },
+    {
+        "author": "신도윤",
+        "display_author": "신도윤",
+        "message": "(SPARCS 창단 멤버) 아직 살아계실 거 아니에요.",
+        "year": 2024,
+        "id": 49
+    },
+    {
+        "author": "박지호",
+        "display_author": "박지호",
+        "message": "나는 당만 봐. (총선 30일 전)",
+        "year": 2024,
+        "id": 50
+    },
+    {
+        "author": "권진현",
+        "display_author": "권진현",
+        "message": "저는 사족보행을 합니다.",
+        "year": 2024,
+        "id": 51
+    },
+    {
+        "author": "손성민",
+        "display_author": "손성민('24 부회장)",
+        "message": "예상우('23 부회장)는 효율이 안 좋다.",
+        "year": 2024,
+        "id": 52
+    },
+    {
+        "author": "신도윤",
+        "display_author": "신도윤",
+        "message": "4개 ADSD.마케팅 TRUST.재앙이 필수적인지, 그리고 아스날",
+        "context": "신도윤 리크루팅 면접 중 지원자에게",
+        "year": 2024,
+        "id": 53
+    },
+    {
+        "author": "예상우",
+        "display_author": "예상우",
+        "message": "민찬이는 문제가 많아.",
+        "year": 2024,
+        "id": 54
+    },
+    {
+        "author": "박지호",
+        "display_author": "학술협력팀장 박지호(추정)",
+        "message": "학술협력팀장이 가장 잘생긴 것 같아요 슬랙",
+        "year": 2024,
+        "id": 55
+    },
+    {
+        "author": "손성민",
+        "display_author": "손성민",
+        "message": "순규 자살 안 하냐?",
+        "year": 2024,
+        "id": 56
+    },
+    {
+        "author": "한우영",
+        "display_author": "한우영",
+        "message": "너 자살 안 하냐?",
+        "year": 2024,
+        "id": 57
+    },
+    {
+        "author": "김희진",
+        "display_author": "김희진",
+        "message": "죽어, 그냥!",
+        "year": 2024,
+        "id": 58
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "저는 잘 못먹어요~ (술잔들을 꼭 껴안으며)",
+        "year": 2024,
+        "id": 59
+    },
+    {
+        "author": "오승빈",
+        "display_author": "오승빈",
+        "message": "“인간들 사용료” a.k.a 인건비",
+        "year": 2024,
+        "id": 60
+    },
+    {
+        "author": "한우영",
+        "display_author": "한우영",
+        "message": "제가요? 왜요?",
+        "year": 2024,
+        "id": 61
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "(박지호를 바라보며) 오래 먹던 국밥 같아서 너무 좀..",
+        "year": 2024,
+        "id": 62
+    },
+    {
+        "author": "한우영",
+        "display_author": "한우영",
+        "message": "지호 선배 있으면 틀딱 화석 모임 될 것 같은데...",
+        "year": 2024,
+        "id": 63
+    },
+    {
+        "author": "김민재",
+        "display_author": "김민재(neymar)",
+        "message": "아무래도 neymar > messi",
+        "year": 2024,
+        "id": 64
+    },
+    {
+        "author": "박태현",
+        "display_author": "박태현",
+        "message": "깃 알아서 쓰면 되지 뭘 이런걸 가르쳐 주냐~",
+        "year": 2024,
+        "id": 65
+    },
+    {
+        "author": "김민찬",
+        "display_author": "김민찬",
+        "message": "I will kill you",
+        "year": 2024,
+        "id": 66
+    },
+    {
+        "author": "황인준",
+        "display_author": "황인준",
+        "message": "(예산을) 막 써, 그냥!",
+        "year": 2023,
+        "id": 67
+    },
+    {
+        "author": "장하준",
+        "display_author": "장하준",
+        "message": "나 리버스 PM이야",
+        "year": 2023,
+        "id": 68
+    },
+    {
+        "author": "이지윤",
+        "display_author": "이지윤(dora)",
+        "message": "dora는 귀엽단 말야",
+        "year": 2023,
+        "id": 69
+    },
+    {
+        "author": "황인준",
+        "display_author": "황인준",
+        "message": "100점이 아니면 안 돼.",
+        "year": 2023,
+        "id": 70
+    },
+    {
+        "author": "최상아",
+        "display_author": "최상아",
+        "message": "내 학점은 4.8",
+        "year": 2023,
+        "id": 71
+    },
+    {
+        "author": "정상",
+        "display_author": "정상",
+        "message": "이 넘치는 돈을 어떻게 해결할지에 대해 논의를 해 봐야 해요.",
+        "year": 2023,
+        "id": 72
+    },
+    {
+        "author": "권순호",
+        "display_author": "권순호가 황인준에게",
+        "message": "너의 남자친구 자리는 내가 가져간다.",
+        "year": 2023,
+        "id": 73
+    },
+    {
+        "author": "이지윤",
+        "display_author": "이지윤",
+        "message": "순호가 내 개였어?",
+        "year": 2023,
+        "id": 74
+    },
+    {
+        "author": "황인준",
+        "display_author": "황인준",
+        "message": "휴학하고 스팍스만 하고 싶다",
+        "year": 2023,
+        "id": 75
+    },
+    {
+        "author": "정상",
+        "display_author": "정상, 벽에 기대며",
+        "message": "벽도 나를 사랑하는 것 같아",
+        "year": 2023,
+        "id": 76
+    },
+    {
+        "author": "황제욱",
+        "display_author": "황제욱",
+        "message": "권순호가 계속 나를 만져",
+        "year": 2023,
+        "id": 77
+    },
+    {
+        "author": "정상",
+        "display_author": "정상",
+        "message": "감(GPU Accelerated Module)이라는 서버도 있어?",
+        "year": 2023,
+        "id": 78
+    },
+    {
+        "author": "정상",
+        "display_author": "정상",
+        "message": "unsigned long long int MAX 만큼 사랑해",
+        "year": 2023,
+        "id": 79
+    },
+    {
+        "author": "이지윤",
+        "display_author": "자칭 21살 01년생 이지윤",
+        "message": "인생 별거 없지",
+        "year": 2023,
+        "id": 80
+    },
+    {
+        "author": "황제욱",
+        "display_author": "황제욱",
+        "message": "누나는 왜 살아?",
+        "context": "이지윤에게",
+        "year": 2023,
+        "id": 81
+    },
+    {
+        "author": "배세윤",
+        "display_author": "배세윤",
+        "message": "기어오르네 자꾸",
+        "year": 2023,
+        "id": 82
+    },
+    {
+        "author": "배세윤",
+        "display_author": "배세윤",
+        "message": "뭐야! 내가 더 잘 만들었는데?!",
+        "context": "핫도그 만드는 중",
+        "year": 2023,
+        "id": 83
+    },
+    {
+        "author": "배세윤",
+        "display_author": "배세윤",
+        "message": "내 핫도그 어때? 평가해줘.",
+        "year": 2023,
+        "id": 84
+    },
+    {
+        "author": "오승빈",
+        "display_author": "오승빈",
+        "message": "눈 나빠져.",
+        "year": 2023,
+        "id": 85
+    },
+    {
+        "author": "배세윤",
+        "display_author": "배세윤",
+        "message": "디자인을 위해서라면...",
+        "year": 2023,
+        "id": 86
+    },
+    {
+        "author": "오승빈",
+        "display_author": "오승빈",
+        "message": "뭐지 내 바지 어디갔지? 나 수업 가야 해 ㅅㅂ...",
+        "year": 2023,
+        "id": 87
+    },
+    {
+        "author": "오승빈",
+        "display_author": "오승빈",
+        "message": "Please give me 컼(coke).",
+        "year": 2023,
+        "id": 88
+    },
+    {
+        "author": "황인준",
+        "display_author": "황인준",
+        "message": "나는 프론트가 오래 걸리는 걸 이해하지 못해.",
+        "year": 2023,
+        "id": 89
+    },
+    {
+        "author": "배세윤",
+        "display_author": "배세윤",
+        "message": "디자인 그런 건 어떻게 하는 거야?",
+        "year": 2023,
+        "id": 90
+    },
+    {
+        "author": "예상우",
+        "display_author": "예상우",
+        "message": "호잇!",
+        "year": 2023,
+        "id": 91
+    },
+    {
+        "author": "권순호",
+        "display_author": "권순호",
+        "message": "디자이너 세미나가 뭐야?",
+        "year": 2023,
+        "id": 92
+    },
+    {
+        "author": "신도윤",
+        "display_author": "신도윤",
+        "message": "그럼 선배님들은 deprecated 된 거 아닌가요?",
+        "year": 2023,
+        "id": 93
+    },
+    {
+        "author": "권혁태",
+        "display_author": "권혁태",
+        "message": "어떻게 읽는 거지 DJ 앙고?",
+        "year": 2023,
+        "id": 94
+    },
+    {
+        "author": "이혜원",
+        "display_author": "이혜원",
+        "message": "전산디 복전하면서 어려운 거 하나도 없었는데?",
+        "year": 2023,
+        "id": 95
+    },
+    {
+        "author": "이지윤",
+        "display_author": "이지윤",
+        "message": "코딩 테스트 준비 왜 해?",
+        "year": 2023,
+        "id": 96
+    },
+    {
+        "author": "최상아",
+        "display_author": "최상아",
+        "message": "놀고자 하는 의지가 중요하다",
+        "year": 2023,
+        "id": 97
+    },
+    {
+        "author": "최상아",
+        "display_author": "최상아",
+        "message": "KPF? 그거 다 거품이야",
+        "year": 2023,
+        "id": 98
+    },
+    {
+        "author": "황인준",
+        "display_author": "황인준",
+        "message": "우리 겹쳐져 있을까?",
+        "year": 2023,
+        "id": 99
+    },
+    {
+        "author": "신도윤",
+        "display_author": "신도윤",
+        "message": "거울 뜯어 고칠 거예요 진짜",
+        "year": 2023,
+        "id": 100
+    },
+    {
+        "author": "한우영",
+        "display_author": "한우영",
+        "message": "지호 선배도 좀 빠른 절전 해주시면 좋으련만",
+        "context": "자고 있는 박지호를 보며",
+        "year": 2023,
+        "id": 101
+    },
+    {
+        "author": "김현수",
+        "display_author": "김현수",
+        "message": "근데 기계학습이랑 머신러닝이랑 차이가 뭐냐?",
+        "year": 2023,
+        "id": 102
+    },
+    {
+        "author": "김건",
+        "display_author": "김건",
+        "message": "아니 기계학습을 한글로 바꿔봐봐",
+        "year": 2023,
+        "id": 103
+    },
+    {
+        "author": "정상",
+        "display_author": "정상",
+        "message": "저녁(global)의 반대말이 뭔지 알아? 지역(local)이야.",
+        "year": 2023,
+        "id": 104
+    },
+    {
+        "author": "최진호",
+        "display_author": "최진호",
+        "message": "OS 뭐 별거 없는 거 아니었어?",
+        "year": 2023,
+        "id": 105
+    },
+    {
+        "author": "박태현",
+        "display_author": "박태현",
+        "message": "고자를 만두로 설명하고 있어!",
+        "year": 2023,
+        "id": 106
+    },
+    {
+        "author": "김효경",
+        "display_author": "김효경",
+        "message": "같이 어몽어스 할래?",
+        "year": 2023,
+        "id": 107
+    },
+    {
+        "author": "장승호",
+        "display_author": "장승호",
+        "message": "아 저 개발해야 돼요.",
+        "year": 2023,
+        "id": 108
+    }
+]
