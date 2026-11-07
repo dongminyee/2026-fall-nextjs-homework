@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useRef } from "react";
+import React, { useState, useRef } from "react";
 
 interface Lecture {
   id: number;
@@ -20,7 +20,36 @@ function SortableLectureList() {
   const [lectures, setLectures] = useState<Lecture[]>(initialLectures);
 
   // --------------- Implement Here ---------------
+  const draggedIdx = useRef<number|null>(null);
 
+  const handleStart = (idx:number) => {
+    draggedIdx.current = idx;
+  };
+
+  const handleOver = (e: React.DragEvent<HTMLLIElement>)=>{
+    e.preventDefault();
+  };
+
+  const handleDrop = (dstIdx:number)=>{
+    const srcIdx = draggedIdx.current;
+
+    if(srcIdx === null || srcIdx===dstIdx){
+      draggedIdx.current=null; return;
+    }
+
+    setLectures((c)=>{
+      const nLec = [...c];
+      const [trg] = nLec.splice(srcIdx, 1);
+      nLec.splice(dstIdx, 0, trg);
+      return nLec;
+    });
+
+    draggedIdx.current=null;
+  };
+
+
+  const handleEnd = ()=>{draggedIdx.current=null;};
+  
   // --------------- Implement Here ---------------
 
   return (
@@ -33,7 +62,11 @@ function SortableLectureList() {
           <li
             key={lecture.id}
             // --------------- Implement Here ---------------
-
+            draggable
+            onDragStart={()=>handleStart(index)}
+            onDragOver={handleOver}
+            onDrop={()=>handleDrop(index)}
+            onDragEnd={handleEnd}
             // ---------------------------------------------
             className="p-3 rounded-md border transition-all duration-200 border-gray-300 hover:border-gray-400 cursor-pointer"
           >
