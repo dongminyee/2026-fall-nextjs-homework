@@ -7,7 +7,7 @@ const TimeTableOTL: React.FC = () => {
 
   // ---------------- Implementaion -----------------------
 
-
+  const [selected, setSelected] = useState<Set<string>>(new Set());
 
   // ------------------------------------------------------
 
@@ -92,7 +92,17 @@ const TimeTableOTL: React.FC = () => {
               const isBoldLine = (hour === 12 || hour === 18 || hour === 0 || hour === 24);
 
               // -------------- Implementation (optional) --------------
+              const slotKey = `${dayIndex}/${totalMinutes}`;
+              const isSelected = selected.has(slotKey);
+              const f = () =>{
+                setSelected((slots) => {
+                  const nSlots = new Set(slots);
+                  if(nSlots.has(slotKey)) nSlots.delete(slotKey);
+                  else nSlots.add(slotKey);
 
+                  return nSlots;
+                });
+              };
               // ------------------------------------------------------
 
               return (
@@ -102,12 +112,6 @@ const TimeTableOTL: React.FC = () => {
                     className={`
                       ${isBoldLine ? 'h-[2px] bg-gray-300' : 'h-[1px] bg-gray-200'} 
                       ${!isHourLine ? 'border-b border-dashed border-gray-200 bg-transparent md:block' : ''}
-                      ${
-                      // ---------- implement here ----------
-                      ''
-                      // ------------------------------------
-                      }
-
                     `}
                   ></div>
 
@@ -115,14 +119,16 @@ const TimeTableOTL: React.FC = () => {
                   <div
                     className={`h-[20px] relative cursor-pointer hover:bg-[#e54c65] 
                         ${  // ---------- implement here ----------
-                      ''
+                      
+                      isSelected? 'bg-[#e54c65] hover:bg-[#d63f59]': 'hover:bg-[#f9b4be]'
+                      
                       // ------------------------------------
                       }
                     `}
                     data-day={dayIndex}
                     data-minute={totalMinutes}
                   // ---------- implement here ----------
-
+                      onClick={f}
                   // ------------------------------------
                   ></div>
                 </React.Fragment>
