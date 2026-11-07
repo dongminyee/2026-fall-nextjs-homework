@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState, type ReactNode } from "react";
+import React, { useEffect, useRef, useState, type ReactNode } from "react";
 
 interface ResizablePanelProps {
   leftPanel: ReactNode;
@@ -20,7 +20,40 @@ export default function ResizablePanel({
   const [width, setWidth] = useState(initialWidth);
 
   // ----------- implement here -----------
+  const [isDragging, setIsDragging] = useState(false);
+  const dragX = useRef(0);
+  const dragWidth = useRef(initialWidth);
 
+  useEffect(() =>{
+    if(!isDragging) return;
+
+    const handlePtrMove = (event: PointerEvent) =>{
+      const nextWidth = dragWidth.current + event.clientX - dragX.current;
+      const w = Math.min(maxWidth, Math.max(minWidth, nextWidth));
+
+      setWidth(w);
+    };
+
+    const handlePtrUp = ()=>{
+      setIsDragging(false);
+    };
+
+    window.addEventListener("pointermove", handlePtrMove);
+    window.addEventListener("pointerup", handlePtrUp);
+
+
+    return ()=>{
+      window.removeEventListener("pointermove", handlePtrMove);
+      window.removeEventListener("pointerup", handlePtrUp);
+    }
+  }, [isDragging, maxWidth, minWidth]);
+
+  const handlePtrDn = (event: React.PointerEvent<HTMLDivElement>) =>{
+    event.preventDefault();
+    dragX.current = event.clientX;
+    dragWidth.current = width;
+    setIsDragging(true);
+  }
 
   // ------------------------------------
 
@@ -36,7 +69,7 @@ export default function ResizablePanel({
       </div>
       <div
         // ----------- implement here -----------
-
+        onPointerDown={handlePtrDn}
         // ------------------------------------
         style={{
           width: "5px",
